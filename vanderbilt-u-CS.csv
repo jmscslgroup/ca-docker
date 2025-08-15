@@ -1,0 +1,53 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,AY26 BS Degree Plan,,,,,,,,,
+Institution,Vanderbilt University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,General Chemistry,CHEM,1601,,2,,3,,,1
+2,General Chemistry Laboratory,CHEM,1601L,,,,1,,,1
+3,Accelerated Single Variable Calculus I,MATH,1300,,,,4,,,1
+4,Introduction to Engineering,ES,1401,,5,,1,,,1
+5,Introduction to Engineering,ES,1402,,6,,1,,,1
+6,Introduction to Engineering,ES,1403,,,,1,,,1
+7,Open Elective,,,,,,3,,,1
+8,Programming and Problem Solving,CS,1101,,,,3,,,2
+9,General Physics I,PHYS,1601,,10,,3,,,2
+10,General Physics I Laboratory,PHYS ,1601L,,,,1,,,2
+11,Accelerated Single Variable Calculus II,MATH ,1301,3,,,4,,,2
+12,Liberal Arts Core,,,,,,3,,,2
+13,General Physics II,PHYS,1602,9,14,,3,,,3
+14,General Physics II Laboratory,PHYS ,1602L,,,,1,,,3
+15,Program Design and Data Structures,CS,2201,8,,,3,,,3
+16,Discrete Structures,CS,2212,8,,,3,,,3
+17,Open Elective,,,,,,3,,,3
+18,Open Elective,,,,,,3,,,3
+19,Multivariable Calculus,MATH,2300,11,,,3,,,4
+20,Computer Architecture,CS,2281,15,21,,3,,,4
+21,Computer Architecture Laboratory,CS,2281L,,,,1,,,4
+22,Intermediate Software Design,CS,3251,15,,,3,,,4
+23,Liberal Arts Core,,,,,,3,,,4
+24,Open Elective,,,,,,3,,,4
+25,Introduction to Probability and Mathematical Statistics,MATH,2820,,,,3,,,5
+26,Programming Languages,CS,3270,15;20,,,3,,,5
+27,Principles of Operating Systems I,CS,3281,,,,3,,,5
+28,Liberal Arts Core,,,,,,3,,,5
+29,Open Elective,,,,,,2,,,5
+30,Methods of Linear Algebra,MATH,2410,,,,3,,,6
+31,Algorithms,CS,3250,16,,,3,,,6
+32,Technical Communications,ES,2100W,,,,3,,,6
+33,CS Depth,,,22,,,3,,,6
+34,Liberal Arts Core,,,,,,3,,,6
+35,Computer Science Seminar,CS,4959,22,,,3,,,7
+36,CS Depth,,,22,,,3,,,7
+37,CS Depth,,,22,,,3,,,7
+38,CS Depth,,,22,,,3,,,7
+39,Technical Elective,,,,,,3,,,7
+40,Liberal Arts Core,,,,,,3,,,7
+41,CS Project,,,22,,,3,,,8
+42,CS Depth,,,22,,,3,,,8
+43,Technical Elective,,,,,,3,,,8
+44,Liberal Arts Core,,,,,,3,,,8
+45,Open Elective,,,,,,3,,,8
